@@ -3,7 +3,7 @@
 <br />
 <p align="center">
   <a href="#">
-    <img src="images/#">
+    <img src="graficos/anims/player.gif">
   </a>
 
   <h3 align="center">Shooting platform</h3>
