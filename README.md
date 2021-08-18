@@ -41,17 +41,19 @@
 
 ## Sobre o projeto
 
-** Descrição do projeto **
+Game desenvolvido no Módulo "Plataforma de Tiro" do curso "Aprenda a criar jogos com Construct 2".
 
-Abaixo, segue imagens do layout construído em dispositivos  `mobile` e `desktop`:
+No jogo, é necessário ajudar o boneco amarelo mascarado a capturar seus servidores
 
-**Mobile**
+O aplicativo é composto de duas fases:
 
-<img src="images/IMAGEM_APLICACAO_MOBILE">
+**Fase 1**
 
-**Desktop**
+<img src="images/phase-1.png">
 
-<img src="images/IMAGEM_APLICACAO_DESKTOP">
+**Fase 2**
+
+<img src="images/phase-2.png">
 
 ### Construído com
 
@@ -78,11 +80,11 @@ O único pré-requisito do projeto é ter o Construct 2 instalado localmente ou 
 
 3. Para rodar o projeto, clique na botão `Run Layout`:
 
-<img src="img/runLayout.png" width="50%">
+<img src="images/runLayout.png" width="50%">
 
 4. Caso queira rodar no modo debug, clique no botão `Debug Layout`:
 
-<img src="img/runDebug.png" width="50%">
+<img src="images/runDebug.png" width="50%">
 
 Seu navegador de preferência será aberto e o jogo será iniciado pelo navegador, geralmente no endereço `http://localhost:50000/`. Mas isso pode variar dependendo da configuração da sua máquina e/ou do projeto.
 
