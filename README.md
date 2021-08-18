@@ -76,7 +76,7 @@ O único pré-requisito do projeto é ter o Construct 2 instalado localmente ou 
  git clone https://github.com/lucas-castro-developer/shooting-platform.git
  ```
 
-2. Clique duas vezes no arquivo `candy-world.capx`, na raiz do projeto, e o Construct 2 será aberto:
+2. Clique duas vezes no arquivo `shooting-platform.capx`, na raiz do projeto, e o Construct 2 será aberto:
 
 3. Para rodar o projeto, clique na botão `Run Layout`:
 
